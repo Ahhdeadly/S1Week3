@@ -1,0 +1,34 @@
+/* style.css */
+/*
+font-family: 'Pixelify Sans', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'PT Sans Narrow', sans-serif;
+*/
+
+span{
+	color:blue;
+}
+
+.redSpan{
+	color: red;
+}
+
+.greenSpan{
+	color: orange;
+}
+
+body{
+	font-family: 'Pixelify Sans', cursive;
+	border-style: solid;
+	background-color: green;
+	opacity: 0.69;
+}
+
+.para1{
+	margin: 50px;
+}
+
+.para2{
+	margin: 100px;
+	color:purple;
+}
